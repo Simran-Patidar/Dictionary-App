@@ -17,13 +17,19 @@ WordMaster is a simple dictionary app that allows users to look up definitions o
 ## Usage
 
  1. Clone this repository to your local machine:
-   - git clone https://github.com/Simran-Patidar/Dictionary-App.git
+    
+    ```bash
+    git clone https://github.com/Simran-Patidar/Dictionary-App.git
+    ```
      
  2. Navigate to the project directory:
-   - cd Dictionary-App
-     
- 3. Open index.html in your preferred web browser.
 
- 4. Enter a word in the search bar and click the "Search" button.
-    
- 5. The app will display the definition of the searched word.
+   ```bash
+   cd Dictionay-App
+   ```
+
+3. Open index.html in your preferred web browser.
+
+4. Open index.html in your preferred web browser.
+
+5. The app will display the definition of the searched word.
