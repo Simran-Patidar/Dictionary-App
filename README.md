@@ -24,9 +24,9 @@ WordMaster is a simple dictionary app that allows users to look up definitions o
      
  2. Navigate to the project directory:
 
-   ```bash
-   cd Dictionay-App
-   ```
+    ```bash
+    cd Dictionay-App
+    ```
 
 3. Open index.html in your preferred web browser.
 
